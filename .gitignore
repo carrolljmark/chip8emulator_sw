@@ -4,3 +4,9 @@
 *.swp
 *.*~
 *~
+*.cpp~
+*.c~
+*.hpp~
+*.h~
+
+chip8_emulator

@@ -12,7 +12,7 @@ CFLAGS = $(DEBUG_FLAGS) -O0 -I$(IDIR)
 LDFLAGS = -lm
 
 # Executable name
-EXE 	= chip8
+EXE 	= chip8_emulator
 EXEOBJ 	= $(ODIR)/$(EXE).o
 
 all: bootstrap $(EXE)
