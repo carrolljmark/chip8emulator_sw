@@ -9,4 +9,6 @@
 *.hpp~
 *.h~
 
+#*
+
 chip8_emulator
